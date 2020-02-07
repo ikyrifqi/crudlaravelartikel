@@ -1,0 +1,10 @@
+Cara masuk ke web crud :
+1. Impor artikel.sql di phpmyadmin
+2.taruh folder crud di htdocs
+3.nyalakan xampp
+4. masuk ke cmd dan masuk ke direktori crudny
+   C:\xampp\htdocs\crud>
+5.lalu ketikkan php artisan serve
+6. masuk ke google ketik pada halaman url localhost/crud/public/articles
+   maka akan masuk ke halaman utama crud nya
+ 
